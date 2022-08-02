@@ -2,8 +2,8 @@
 
 - 👩🏻‍🎓 I’m a Computer Engineer.
 - 👩🏻‍💻 I work as a QA/Test Engineer.
-- 👀 I’m interested in manual test, web/mobile test, test automation, analysis
-- 🌱 I’m currently learning selenium, cucumber, appium, java
+- 👀 I’m interested in java programming, web/mobile test, test automation,  manual test, analysis
+
 
 - 📫 How to reach me  [Linkedin](https://www.linkedin.com/in/beyzanur-%C3%B6zer/)
 
